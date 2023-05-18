@@ -1,1 +1,15 @@
-h1 { color: blue;}
+h1.color_t,h2.color_t { color: blue;font-style: oblique;}
+
+body { background-color: #e1ebef;}
+
+title { color : blue;}
+
+p.peque {font-size: small;}
+
+p.medio {font-size:medium;}
+
+p.grande {font-size: large;}
+
+p.mas-grande {font-size: x-large;}
+
+p.oblique {font-style: oblique;}

@@ -1,0 +1,59 @@
+
+.Caja_Login {
+
+
+    /*box-sizing:content-box;*/
+    /*box-sizing:border-box;  */
+    /*overflow: hidden;*/
+
+    width: 300px;
+    height: 300px;
+    padding: 20px 20px 20px ;
+   
+    /*background-color: #c010f0;
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(67,9,121,1) 35%, rgba(0,212,255,1) 100%);*/
+
+    background: linear-gradient(#bd09b7 , #6b4cf5 );
+    color: #DAE6B1;
+    border-radius: 20px;
+    margin:0 auto;
+    box-shadow: 10px 10px  10px rgb(78, 59, 140);
+} 
+
+
+select {
+    /*box-sizing:content-box;*/
+    /*box-sizing:border-box;  */
+    margin: 5px 5px 5px 5px;
+    background:white;
+    border: none;
+    font-size:smaller;
+    padding: 7px;
+    width: 160px;
+    /*width:100%;*/
+ }
+ 
+
+ .Textos{
+    /*box-sizing: border-box;   */ 
+    margin: 5px 5px 5px 5px;
+    background:white;
+    border: none;
+    font-size: small;
+    padding: 7px;
+    width: 150px;
+    /*width:100%;*/
+ }
+
+ button{    
+    background:rgb(3, 249, 249);
+    border: none;
+    font-size: small;
+    font-display:inherit;
+    color: red;
+    margin: 10px 20px 0px 95px;
+    padding: 5px 15px;
+    position:inherit;
+    right: 0px;
+ }
